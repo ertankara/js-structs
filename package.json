@@ -1,0 +1,27 @@
+{
+  "name": "data-structures",
+  "version": "0.0.1",
+  "description": "Data structures for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ertankara/data-structures.git"
+  },
+  "keywords": [
+    "data",
+    "data",
+    "structures",
+    "js",
+    "data",
+    "structures"
+  ],
+  "author": "Ertan Kara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ertankara/data-structures/issues"
+  },
+  "homepage": "https://github.com/ertankara/data-structures#readme"
+}
