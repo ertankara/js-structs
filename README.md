@@ -2,7 +2,7 @@
 
 Complex data structures implemented in JavaScript
 
-## Installation
+## Installation
 
 `npm install data-structures`
 
